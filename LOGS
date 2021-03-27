@@ -1,0 +1,5 @@
+**This is our schedule and ideas we will log down and use**
+1. Split strategy: RepeatedGroupStratifiedKfold - Done
+2. According to this discussion: https://www.kaggle.com/c/shopee-product-matching/discussion/228346, most labels are indonesian, so use BERT trained in indonesia: Not complete
+3. Use Stage trainings: From google landmark ideas
+4. Use other google landmark ideas such as threshold and psuedolabelling(TBA)
